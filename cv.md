@@ -21,6 +21,7 @@ alert( getMaxSubSum([-2, -1, 1, 2]) ); // 3
 alert( getMaxSubSum([100, -9, 2, -3, 5]) ); // 100
 alert( getMaxSubSum([1, 2, 3]) ); // 6
 alert( getMaxSubSum([-1, -2, -3]) ); // 0
+
 6. Unfortunately, this opportunity has not yet been
 7. https://learn.javascript.ru, https://www.codewars.com
 8. 2 years studied at the university
