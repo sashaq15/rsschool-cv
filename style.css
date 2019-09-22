@@ -12,7 +12,8 @@
   background-color: hsla(96, 78%, 47%,0.5);
   border: 3px solid black;
   border-radius: 17px;
-  }
+}
+
 h1 {
   color: hsl(95, 78%, 9%);
   text-align: center;
@@ -21,8 +22,8 @@ h1 {
 }
 
 .all footer {
- font-size: 15px;
- font-style: italic;
-}
+  font-size: 15px;
+  font-style: italic;
+} 
     
 
