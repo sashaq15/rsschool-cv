@@ -1,6 +1,6 @@
-.all{
+.all {
   display: block;
-  box-sizing:border-box;
+  box-sizing: border-box;
   width: 1000px;
   height: auto;
   margin: 0 auto;
@@ -13,17 +13,16 @@
   border: 3px solid black;
   border-radius: 17px;
   }
-h1{
-    color: hsl(95, 78%, 9%);
-    text-align: center;
-    font-family: Georgia;
+h1 {
+  color: hsl(95, 78%, 9%);
+  text-align: center;
+  font-family: Georgia;
   
 }
 
 .all footer {
-font-size: 15px;
-font-style: italic;
-
+ font-size: 15px;
+ font-style: italic;
 }
     
 
