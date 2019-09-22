@@ -1,0 +1,29 @@
+.all {
+  display: block;
+  box-sizing: border-box;
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  padding-left: 50px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: left;
+  color: hsl(95, 78%, 9%);
+  background-color: hsla(96, 78%, 47%,0.5);
+  border: 3px solid black;
+  border-radius: 17px;
+}
+
+h1 {
+  color: hsl(95, 78%, 9%);
+  text-align: center;
+  font-family: Georgia;
+  
+}
+
+.all footer {
+  font-size: 15px;
+  font-style: italic;
+} 
+    
+
